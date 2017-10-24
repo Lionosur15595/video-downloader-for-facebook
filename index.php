@@ -19,7 +19,17 @@
 		font-family: ubu;
 	}
 </style>
-</div>
+<script type="text/javascript" src="dist/sweetalert.min.js"></script>
+<div class="col-xs-2"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ad2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6054708674491134"
+     data-ad-slot="2778597209"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
 <div class="col-xs-8 text-left" style="margin-top: 7em;">
 
 
